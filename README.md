@@ -2,7 +2,7 @@
 <h3 align="center"> A Complete Customizable Elegant Personal Portfolio Website and is fully responsive <br /> built with react.js lets you display your works and Professional skills </h3>
 
 <p align="center"> 
-    <a href="https://github.com/1998Suraj/My-Portfolio" target="_blank">
+    <!-- <a href="https://github.com/1998Suraj/My-Portfolio" target="_blank">
      <img src="https://github.com/1998Suraj/My_Photo/blob/main/Home.png?raw=true"></img>
         <img src="https://github.com/1998Suraj/My_Photo/blob/main/About.png?raw=true"></img>
           <img src="https://github.com/1998Suraj/My_Photo/blob/main/skills.png?raw=true"></img>
@@ -10,7 +10,7 @@
             <img src="https://github.com/1998Suraj/My_Photo/blob/main/project2.png?raw=true"></img>
              <img src="https://github.com/1998Suraj/My_Photo/blob/main/Contact.png?raw=true"></img>
 
-  </a>
+  </a> -->
 </p>
 
 ## Sections 📚

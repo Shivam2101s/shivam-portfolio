@@ -8,7 +8,7 @@ const Whatido = () => {
   return (
     <Fade bottom cascade>
       <section id="whatido">
-        <h1 className="Whatido-title">
+        <h1 className="Whatido-title" id="whatido-title">
           <Fade bottom cascade>
             {" "}
             SKILLS{" "}

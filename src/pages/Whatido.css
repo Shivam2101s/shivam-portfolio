@@ -61,9 +61,10 @@ div.logo {
   margin-right: 95px;
   margin-left: 95px;
 }
-#whatido {
-  padding: 60px 0;
+.fluid-container{
+  margin-top:-15px;
 }
+
 #whatido .box {
   margin: 80px 0px 50px 50px;
   font-size: 20px;

@@ -25,8 +25,7 @@ export const aboutme = {
     "https://github.com/Shivam2101s/images/blob/main/profile.png?raw=true",
   p1: "Hey, My name is Shivam Shivam. I have completed my Bachelor of Engineering from Lakshmi Narain College of Technology, Indore(M.P.).",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
-  p3: "Apart from coding I also like photography 📸, cooking 👨‍🍳 and riding 🏍️."
- 
+  p3: "Apart from coding I also like photography 📸, cooking 👨‍🍳 and riding 🏍️.",
 };
 
 // Skills
@@ -52,16 +51,6 @@ export const whatido = {
       id: "2",
     },
     {
-      name: "Material-UI",
-      iconifyClassName: "logos:material-ui",
-      id: "9",
-    },
-    {
-      name: "Tailwind",
-      iconifyClassName: "logos:tailwindcss-icon",
-      id: "10",
-    },
-    {
       name: "JavaScript",
       iconifyClassName: "logos:javascript",
       id: "3",
@@ -72,35 +61,64 @@ export const whatido = {
       id: "4",
     },
     {
+      name: "Redux",
+      iconifyClassName: "logos:redux",
+      id: "5",
+    },
+    {
       name: "NodeJS",
       iconifyClassName: "logos:nodejs",
-      id: "5",
+      id: "6",
     },
     {
       name: "ExpressJS",
       iconifyClassName: "logos:express",
-      id: "13",
+      id: "7",
     },
     {
       name: "MongoDB",
       iconifyClassName: "logos:mongodb",
-      id: "6",
+      id: "8",
     },
     {
       name: "Postman",
       iconifyClassName: "logos:postman-icon",
-      id: "12",
+      id: "9",
     },
-
     {
-      name: "VS Code",
-      iconifyClassName: "vscode-icons:file-type-vscode",
-      id: "14",
+      name: "npm",
+      iconifyClassName: "logos:npm-icon",
+      id: "10",
     },
     {
       name: "GIT",
       iconifyClassName: "logos:git",
+      id: "11",
+    },
+    {
+      name: "Tailwind",
+      iconifyClassName: "logos:tailwindcss-icon",
+      id: "12",
+    },
+    {
+      name: "Material-UI",
+      iconifyClassName: "logos:material-ui",
+      id: "13",
+    },
+    {
+      name: "Ant Design",
+      iconifyClassName: "logos:ant-design",
+      id: "14",
+    },
+    {
+      name: "Netlify",
+      iconifyClassName: "vscode-icons:file-type-netlify",
       id: "15",
+    },
+    {
+      name: "Vercel",
+      iconifyClassName: "logos:vercel-icon",
+      id: "16",
     },
   ],
 };
@@ -118,7 +136,7 @@ Dynamic progress monitor page,
 Subscription page |
 Tech Stack: HTML | CSS | JavaScript | EJS | nodeJS | express | MongoDB`,
     img: "https://github.com/Shivam2101s/images/blob/main/frontend.jpg?raw=true",
-    
+
     github: "https://github.com/bhargavkatira/front-end-master",
   },
   {

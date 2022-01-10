@@ -1,7 +1,7 @@
 .Whatido-title {
   color: var(--txtcolor);
   text-align: center;
-  margin-bottom: 0;
+  margin-bottom: -80px;
 }
 
 .fullstack {

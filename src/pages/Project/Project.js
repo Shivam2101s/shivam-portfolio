@@ -15,7 +15,12 @@ const Project = (props) => {
                 <Fade bottom cascade>
                     <div>
                         <p className="p">{props.desc}</p>
+                        <p className="p"><b>Features : </b>{props.feature}</p>                        
+                        <p className="p"><b>{props.tech}</b></p>
+
+                        
                         <button ><span> <a id="a" target="_blank" href={props.github}>Source Code </a></span></button>
+                        <button ><span> <a id="b" target="_blank" href={props.link}>Deploy link </a></span></button>
                     </div>
                 </Fade>
             </div>

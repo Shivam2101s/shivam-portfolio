@@ -28,6 +28,7 @@ const Contact = () => {
       <p className="copyright">
         👨‍💻 with ❤️ by <b id="footName">Shivam Sharma</b> using ⚛️
       </p>
+
     </div>
   );
 };

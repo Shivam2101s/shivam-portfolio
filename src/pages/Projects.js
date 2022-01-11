@@ -8,7 +8,7 @@ const Projects = () => {
     return <section className="projects" id="projects">
         <h1 className="project-title"><Fade bottom cascade>Projects</Fade></h1>
         {details.map((prj) =>
-            <Project key={prj.id} title={prj.title} desc={prj.desc} img={prj.img} link={prj.link} github={prj.github} />
+            <Project key={prj.id} title={prj.title} desc={prj.desc} tech={prj.tech} feature={prj.feature} img={prj.img} link={prj.link} github={prj.github} />
         )}
     </section>
 }

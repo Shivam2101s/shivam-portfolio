@@ -128,13 +128,12 @@ export const details = [
   {
     id: 1,
     title: "Frontend Masters Clone",
-    desc: `Frontend Masters is an E-learning platform where users can advance their skills with in-depth, modern front-end engineering courses.
-Features:
-Sign-in/Sign-up,
+    desc: `Frontend Masters is an E-learning platform where users can advance their skills with in-depth, modern front-end engineering courses.`,
+    feature: `Sign-in/Sign-up,
 Explore top courses and teachers,
 Dynamic progress monitor page,
-Subscription page |
-Tech Stack: HTML | CSS | JavaScript | EJS | nodeJS | express | MongoDB`,
+Subscription page.`,
+    tech: `Tech Stack: HTML | CSS | JavaScript | EJS | nodeJS | express | MongoDB`,
     img: "https://github.com/Shivam2101s/images/blob/main/frontend.jpg?raw=true",
 
     github: "https://github.com/bhargavkatira/front-end-master",
@@ -142,13 +141,13 @@ Tech Stack: HTML | CSS | JavaScript | EJS | nodeJS | express | MongoDB`,
   {
     id: 2,
     title: "Reliance Retail Clone",
-    desc: `Reliance Retail is an informative website where users can get information about various brands of Reliance Industries.
-Features:
+    desc: `Reliance Retail is an informative website where users can get information about various brands of Reliance Industries.`,
+    feature: `Features:
 Sign-in/Sign-up, User Authentication,
 Navbar,
 Carousel,
-Add to cart & Check out |
-Tech Stack: HTML | CSS | JavaScript .`,
+Add to cart & Check out.`,
+    tech: `Tech Stack: HTML | CSS | JavaScript `,
     img: "https://github.com/Shivam2101s/images/blob/main/reliance(1)%20-%20Copy.jpg?raw=true",
     github: "https://github.com/Shivam2101s/Reliance-retails",
     link: "https://relianceretailclone.netlify.app/",
@@ -156,11 +155,10 @@ Tech Stack: HTML | CSS | JavaScript .`,
   {
     id: 3,
     title: "Eva Translate",
-    desc: `Eva Translate is a translating tool, users can translate text from one language to another and also hear its correct pronunciation.
-    Features:
-    Language translation,
-    Speech-to-text |
-    Tech Stack: HTML | CSS | JavaScript .`,
+    desc: `Eva Translate is a translating tool, users can translate text from one language to another and also hear its correct pronunciation.`,
+    feature: `Language translation,
+    Speech-to-text.`,
+    tech: `Tech Stack: HTML | CSS | JavaScript .`,
     img: "https://github.com/Shivam2101s/images/blob/main/eva%20translate.jpg?raw=true",
     link: "https://evatranslate.netlify.app/",
     github: "https://github.com/Shivam2101s/Eva-Translate",
@@ -168,11 +166,10 @@ Tech Stack: HTML | CSS | JavaScript .`,
   {
     id: 4,
     title: "My Recipe App",
-    desc: `It's a food recipe app, users can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.
-Features:
-Search recipe,
-Recipe of the day | 
-Tech Stack: HTML | CSS | JavaScript .`,
+    desc: `It's a food recipe app, users can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.`,
+    feature: `Search recipe,
+Recipe of the day.`,
+    tech: `Tech Stack: HTML | CSS | JavaScript`,
     img: "https://github.com/Shivam2101s/images/blob/main/food%20app.jpg?raw=true",
     link: "https://myfoodapp21.netlify.app/",
     github: "https://github.com/Shivam2101s/Food-app",

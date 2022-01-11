@@ -18,7 +18,7 @@ const Contact = () => {
         {links.map((link) => (
           <div className="icons">
             {" "}
-            <SocialIcon url={link} />{" "}
+            <SocialIcon url={link}  target="_blank" />{" "}
           </div>
         ))}
       </div>

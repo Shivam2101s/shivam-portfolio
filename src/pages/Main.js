@@ -17,7 +17,7 @@ function Main() {
                   <TypeWriter />
                 </h1>
                 <h1 className="main-title d">{main.doamin}</h1>
-                <a href={main.resume} className="btn btn-lg hide">
+                <a href={main.resume}  target="_blank" className="btn btn-lg hide">
                   <span>RESUME</span>
                 </a>
               </div>

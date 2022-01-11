@@ -5,7 +5,7 @@
 
 .icons {
   display: inline;
-  margin: 0 25px 0 0;
+  margin:20px;
 }
 
 .icon {
@@ -38,4 +38,5 @@ p.copyright {
     margin-top: 25px;
     margin-bottom: 25px;
   }
+
 }

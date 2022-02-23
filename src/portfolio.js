@@ -135,7 +135,7 @@ Dynamic progress monitor page,
 Subscription page.`,
     tech: `Tech Stack: EJS | CSS | JavaScript | nodeJS | express | MongoDB`,
     img: "https://github.com/Shivam2101s/images/blob/main/frontend.jpg?raw=true",
-    github: "https://github.com/bhargavkatira/front-end-master",
+    github: "https://github.com/Shivam2101s/Frontend_Masters",
     link: "https://frontend-masters.herokuapp.com/"
   },
   {

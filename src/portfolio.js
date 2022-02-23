@@ -135,8 +135,8 @@ Dynamic progress monitor page,
 Subscription page.`,
     tech: `Tech Stack: EJS | CSS | JavaScript | nodeJS | express | MongoDB`,
     img: "https://github.com/Shivam2101s/images/blob/main/frontend.jpg?raw=true",
-
     github: "https://github.com/bhargavkatira/front-end-master",
+    link: "https://frontend-masters.herokuapp.com/"
   },
   {
     id: 2,
@@ -168,6 +168,18 @@ Add to cart & Check out.`,
   },
   {
     id: 4,
+    title: "MakeMYHome",
+    desc: `A small React app to keep the details of the flats and their residents in a society.`,
+    feature: `User authentication using MongoDB,
+    Private Routing,
+    Filter and sorting.`,
+    tech: `Tech Stack: React | CSS | NodeJS | Exprees | MongoDB .`,
+    img: "https://github.com/Shivam2101s/images/blob/main/makeMyHouse1.jpg?raw=true",
+    
+    github: "https://github.com/Shivam2101s/Apartment-Flat-Manager",
+  },
+  {
+    id: 5,
     title: "Eva Translate",
     desc: `Eva Translate is a translating tool, users can translate text from one language to another and also hear its correct pronunciation.`,
     feature: `Language translation,
@@ -178,7 +190,7 @@ Add to cart & Check out.`,
     github: "https://github.com/Shivam2101s/Eva-Translate",
   },
   {
-    id: 5,
+    id: 6,
     title: "My Recipe App",
     desc: `It's a food recipe app, users can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.`,
     feature: `Search recipe,

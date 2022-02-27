@@ -175,8 +175,8 @@ Add to cart & Check out.`,
     Filter and sorting.`,
     tech: `Tech Stack: React | CSS | NodeJS | Exprees | MongoDB .`,
     img: "https://github.com/Shivam2101s/images/blob/main/makeMyHouse1.jpg?raw=true",
-    
     github: "https://github.com/Shivam2101s/Apartment-Flat-Manager",
+    link:"https://apartment-flats-manager-shivam2101s.vercel.app"
   },
   {
     id: 5,

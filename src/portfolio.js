@@ -16,7 +16,7 @@ export const main = {
   name: "Shivam Sharma",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1ZFKJeDeuMwhMUY6vi53GFnMrE_wwfofS/view?usp=sharing",
+    "https://drive.google.com/drive/u/2/folders/1R2kiLFWUaKEFvDNgERqLfFC0H4Utj81B",
 };
 
 // AboutMe

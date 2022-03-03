@@ -147,7 +147,7 @@ search bar for food items to see their nutrition contents, explore various fitne
 Subscription page.`,
     tech: `Tech Stack: React | CSS | JavaScript | nodeJS | express | MongoDB`,
     img: "https://i.ibb.co/c1THySK/hero-image.jpg",
-
+    link: "https://github.com/AbhijitAher/MyFitnessPal_U5",
     github: "https://github.com/AbhijitAher/MyFitnessPal_U5",
   },
   

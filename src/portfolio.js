@@ -23,7 +23,7 @@ export const main = {
 export const aboutme = {
   imgLink:
     "https://github.com/Shivam2101s/images/blob/main/profile.png?raw=true",
-  p1: "Hey, My name is Shivam Shivam. I have completed my Bachelor of Engineering from Lakshmi Narain College of Technology, Indore(M.P.).",
+  p1: "Hey, My name is Shivam Sharma. I have completed my Bachelor of Engineering from Lakshmi Narain College of Technology, Indore(M.P.).",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
   p3: "Apart from coding I also like photography 📸, cooking 👨‍🍳 and riding 🏍️.",
 };
